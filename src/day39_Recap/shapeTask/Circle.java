@@ -20,7 +20,7 @@ public class Circle extends Shape {
         this.radius = radius;
     }
 
-    public Circle(String name, double radius) {
+    public Circle( double radius) {
         super("Circle");
         setRadius(radius);
     }

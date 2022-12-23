@@ -8,7 +8,7 @@ public class Square extends Shape {
     }
 
     public double getSide() {
-        return side;
+        return 0;
     }
 
     public Square(double side) {
