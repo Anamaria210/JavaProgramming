@@ -2,7 +2,7 @@ package day40_FinalKeyword;
 import day39_Recap.shapeTask.Circle;
 import day39_Recap.shapeTask.Square;
 
-public class EncapsulationReview {
+public class EncapsulationReview  {
 
     private Circle circle;
     private Square square;
