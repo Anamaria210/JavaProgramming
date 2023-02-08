@@ -19,8 +19,10 @@ public class dublicate {
             String ch = "" + word.charAt(i);// represents char Character of word
             if (!result.contains(ch)) { // if the character is not contained in the result
                 result += ch; // the character will be added in the result
+
             }
             System.out.println(result);
+
 
         }
     }
